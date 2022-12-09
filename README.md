@@ -1,7 +1,3 @@
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dnavamosler&theme=vue&hide_border=true)](https://git.io/streak-stats)
-
-
 <p align="center">
    “The most powerful tool we have as developers is automation. —Scott Hanselman”
 </p>
