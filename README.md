@@ -1,9 +1,7 @@
 <p align="center">
    “The most powerful tool we have as developers is automation. —Scott Hanselman”
 </p>
-                    <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Dani, a full-time full-stack web developer 👨‍💻 working remotely since 2018 🚀</div>  
