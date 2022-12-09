@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=dnavamosler)](https://github.com/dnavamosler/github-profile-trophy)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dnavamosler&theme=vue-dark&locale=es)](https://git.io/streak-stats)
