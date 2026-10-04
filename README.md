@@ -10,7 +10,7 @@
   <a href="https://instagram.com/nm_daniel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-- 💼 Currently working at [Epistemonikos](https://www.epistemonikos.cl/)
+- 💼 Currently working at [Epistemonikos](http://foundation.epistemonikos.org/)
 - 🌎 Working remotely since 2018
 - 🛠️ I take products from idea to production: frontend, backend, mobile apps, data modeling and deployment
 - 🤖 I love automating things: bots, computer vision and anything that saves a click
